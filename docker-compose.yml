@@ -1,0 +1,10 @@
+services:
+
+  modisl1db:
+    image: modisl1db:1.0
+    build:
+      context: .
+    volumes:
+      - ./work:/work
+      - ./test.sh:/test.sh
+
