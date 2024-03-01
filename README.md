@@ -20,7 +20,7 @@ This solution uses a Docker base image created from the MODISL1DB Singularity Im
 
 The base image was created by exporting the `squashfs` filesystem from the Singularity Image File (SIF). To reproduce, use the following steps:
 
-Step 1: Download and extract modisl1db.sif from IMAPP_MODIS_LEVEL1_V1.0.tar.gz
+Step 1: Download `IMAPP_MODIS_LEVEL1_V1.0.tar.gz` and extract `modisl1db.sif`
 ```
 wget https://bin.ssec.wisc.edu/pub/IMAPP/MODIS/hidden/modis_level1/v1.0/IMAPP_MODIS_LEVEL1_V1.0.tar.gz
 tar -xzf IMAPP_MODIS_LEVEL1_V1.0.tar.gz
