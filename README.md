@@ -1,6 +1,8 @@
 # IMAPP MODIS L1 processor
 The International MODIS/AIRS Processing Package (IMAPP) allows ground stations capable of receiving direct broadcast data from the NASA Terra and Aqua spacecraft to create a suite of products from the MODIS instruments. The IMAPP software is maintained and distrubuted by the University of Wisconsin-Madison Space Science and Engineering Center (SSEC): https://cimss.ssec.wisc.edu/imapp
 
+This repository repackages the IMAPP L1 processor into a Docker container. This is not an official IMAPP repository and the author is not affiliated with SSEC in any way.    
+
 ## Disclaimer
 
 There is no expressed or implied warranty made to anyone as to the suitability of this software
