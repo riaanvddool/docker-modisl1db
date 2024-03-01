@@ -14,7 +14,7 @@ docker-compose build
 docker-compose up
 ```
 
-## Base Docker image
+## Docker base image
 
 This solution uses a Docker base image created from the MODISL1DB Singularity Image File (SIF) distributed by SSEC.
 
